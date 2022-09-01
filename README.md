@@ -1,6 +1,8 @@
 # yarb (Yet Another Rss Bot)
 
-一个方便获取每日安全资讯的爬虫和推送程序。支持导入 opml 文件，因此也可以订阅其他任何 RSS 源。
+来自：https://github.com/VulnTotal-Team/yarb
+
+一个方便获取每日 web3 资讯的爬虫和推送程序。支持导入 opml 文件，因此也可以订阅其他任何 RSS 源。
 
 **懒人福音，每日自动更新，点击右上角 Watch 即可：[每日安全资讯](./today.md)，[历史存档](./archive)**
 
@@ -63,17 +65,7 @@ $ nohup ./yarb.py --cron 11:00 > run.log 2>&1 &
 
 其他订阅源：
 
-- [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)
-- [Chinese-Security-RSS](https://github.com/zhengjim/Chinese-Security-RSS)
-- [awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed)
-- [SecurityRSS](https://github.com/Han0nly/SecurityRSS)
-- [安全技术公众号](https://github.com/ttttmr/wechat2rss)
-- [SecWiki 安全聚合](https://www.sec-wiki.com/opml/index)
-- [Hacking8 安全信息流](https://i.hacking8.com/)
-
-非安全订阅源：
-
-- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- [RSSAggregatorforWeb3](https://github.com/chainfeeds/RSSAggregatorforWeb3)
 
 添加自定义订阅有两种方法：
 

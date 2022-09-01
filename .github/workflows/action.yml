@@ -2,10 +2,10 @@
 
 name: Update dailynews
 
-# 国际标准时间2点（北京时间10点）
+# 国际标准时间1点（北京时间9点）
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -33,10 +33,10 @@ jobs:
       - name: Commit
         run: |
           git diff
-          git config --global user.email firmianay@gmail.com
-          git config --global user.name firmianay
+          git config --global user.email 1135326346@qq.com
+          git config --global user.name dubuqingfeng
           git add archive today.md
-          git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+          git commit -m "每日 web3 资讯（`date +'%Y-%m-%d'`）"
 
       - name: Push changes
         uses: ad-m/github-push-action@master

@@ -9,40 +9,10 @@
             "enabled": true,
             "filename": "CustomRSS.opml"
         },
-        "CyberSecurityRSS": {
+        "chainfeeds-RSSAggregatorforWeb3": {
             "enabled": true,
-            "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
-            "filename": "CyberSecurityRSS.opml"
-        },
-        "CyberSecurityRSS-tiny": {
-            "enabled": false,
-            "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/tiny.opml",
-            "filename": "CyberSecurityRSS-tiny.opml"
-        },
-        "Chinese-Security-RSS": {
-            "enabled": true,
-            "url": "https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml",
-            "filename": "Chinese-Security-RSS.opml"
-        },
-        "awesome-security-feed": {
-            "enabled": false,
-            "url": "https://raw.githubusercontent.com/mrtouch93/awesome-security-feed/main/security_feeds.opml",
-            "filename": "awesome-security-feed.opml"
-        },
-        "SecurityRSS": {
-            "enabled": false,
-            "url": "https://github.com/Han0nly/SecurityRSS/blob/master/SecureRss.opml",
-            "filename": "SecureRss.opml"
-        },
-        "wechatRSS": {
-            "enabled": true,
-            "url": "https://wechat2rss.xlab.app/opml/sec.opml",
-            "filename": "wechatRSS.opml"
-        },
-        "chinese-independent-blogs": {
-            "enabled": false,
-            "url": "https://raw.githubusercontent.com/timqian/chinese-independent-blogs/master/feed.opml",
-            "filename": "chinese-independent-blogs.opml"
+            "url": "https://raw.githubusercontent.com/chainfeeds/RSSAggregatorforWeb3/main/RAW.opml",
+            "filename": "chainfeeds-RSSAggregatorforWeb3.opml"
         }
     },
 

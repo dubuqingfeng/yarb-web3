@@ -1,0 +1,44 @@
+# https://docs.github.com/cn/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Update dailynews
+
+# 国际标准时间2点（北京时间10点）
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: ./install.sh
+
+      - name: Push articles
+        env:
+          FEISHU_KEY: ${{ secrets.FEISHU_KEY }}
+          WECOM_KEY: ${{ secrets.WECOM_KEY }}
+          DINGTALK_KEY: ${{ secrets.DINGTALK_KEY }}
+          QQ_KEY: ${{ secrets.QQ_KEY }}
+          TELEGRAM_KEY: ${{ secrets.TELEGRAM_KEY }}
+          MAIL_KEY: ${{ secrets.MAIL_KEY }}
+        run: python3 yarb.py
+
+      - name: Commit
+        run: |
+          git diff
+          git config --global user.email firmianay@gmail.com
+          git config --global user.name firmianay
+          git add archive today.md
+          git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}

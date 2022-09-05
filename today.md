@@ -1,0 +1,92 @@
+# 每日 web3 资讯（2022-09-05）
+
+- Ethereum Research - Latest posts
+  - [Permissioned Privacy Pools](https://ethresear.ch/t/permissioned-privacy-pools/13572/1)
+  - [ERC721 Extension for zk-SNARKs](https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237/24)
+- Seer Labs — Mirror
+  - [DEFI交互作业09.04【干货/空投】](https://mirror.xyz/seerlabs.eth/MxPKAVIi3j557fWaiHJXVeZcljTtDQ5xHzcEvOScxtk)
+- codedump的网络日志
+  - [周刊（第24期）：sqlite并发读写的演进之路](https://www.codedump.info/post/20220904-weekly-24/)
+- 13 的 Apple 開發者電子報
+  - [開發者週報 #155 各種傷害](https://www.ethanhuang13.com/p/155)
+- 龙爪槐守望者
+  - [体验碎周报第 111 期（2022.9.5）](http://www.ftium4.com/ux-weekly-111.html)
+- DeFi, NFT & Web3 Insights - The Defiant
+  - [🦄 Recap: DeFi Week of Aug. 28](https://newsletter.thedefiant.io/p/recap-defi-week-of-aug-28)
+- Old Fashion Research — Mirror
+  - [OFR Insight Sharing Session #7 - 数字藏品：是被忽视开垦的"新大陆"，还是被疯狂炒作的"资本陷阱"？](https://mirror.xyz/0xe70628e0E8e15F222AAdb406ce93fea713d6c30e/y6WiRkNlBqVJFdJAUxDqOnn1OrND_nwMPvUClWzEtMo)
+- zoroo.eth — Mirror
+  - [Web3日报0904：百度网盘、新华文轩分别上线数藏平台](https://mirror.xyz/zoroo.eth/ER0pA4IOkpBMtVmi0DY48eMxnMTPnJkMEFE8TRHFWUI)
+- Daniele — Mirror
+  - [The Future of Wonderland DAO: Giving Power to the Frogs](https://mirror.xyz/0x8A7f7C5b556B1298a74c0e89df46Eba117A2F6c1/w-IntDhLZLxsg_U6LnbpsajL9ZdyrMd9mtbTqV8TWV0)
+- Stories by Automata Network on Medium
+  - [Automata’s Bi-Weekly Update: Issue 27](https://medium.com/atanetwork/automatas-bi-weekly-update-issue-27-b3886a05671c?source=rss-f15317e02c04------2)
+- Stories by Convergence Finance on Medium
+  - [Announcing our Convergence Staking Airdrop Rewards Program with BitFinex](https://medium.com/convergencefinance/announcing-our-convergence-staking-airdrop-rewards-program-with-bitfinex-1a27437725e0?source=rss-4c4afe7e003b------2)
+- Chainlink Blog
+  - [Marketing Tactics, Tools, and Metrics for Early-Stage Web3 Startups](https://blog.chain.link/web3-marketing-tactics-tools-metrics/)
+- Gitcoin's Blog
+  - [Gitcoin Grants Round 15 kicks off Sept. 7](https://gitcoin.co/blog/grants-round-15-kicks-off/)
+- CoinDesk
+  - [‘Blocker Bug’ Delays Highly Anticipated Y00ts NFT Mint](https://www.coindesk.com/business/2022/09/04/blocker-bug-delays-highly-anticipated-y00ts-nft-mint/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [MicroStrategy, With Bitcoin's Price Depressed, Looks to Lightning to Boost Usage, Saylor Says](https://www.coindesk.com/business/2022/09/04/microstrategys-software-ops-is-working-on-enterprise-solutions-for-lightning-saylor-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+  - [It Was Cruel Summer for the Bitcoin Market](https://www.coindesk.com/business/2022/09/04/it-was-cruel-summer-for-the-bitcoin-market/?utm_medium=referral&utm_source=rss&utm_campaign=headlines)
+- Decrypt
+  - [Owner of Mercado Bitcoin 2TM Undergoes Second Round of Layoffs](https://decrypt.co/108957/owner-of-mercado-bitcoin-2tm-undergoes-second-round-of-layoffs)
+  - [KlimaDAO Engages Tusk Strategies to Push Congress to Write DAOs Into Law](https://decrypt.co/108948/klimadao-engages-tusk-strategies-to-push-congress-to-write-daos-into-law)
+  - [DeFi Speculators Awaiting Arbitrum Token Flock to GMX](https://decrypt.co/108941/defi-speculators-awaiting-arbitrum-token-flock-to-gmx)
+  - [This Week on Crypto Twitter: Avalanche Exposed by Self-Proclaimed Crypto Whistleblower, Ted Cruz Visits Crypto Mine](https://decrypt.co/108929/this-week-on-crypto-twitter-avalanche-exposed-whistleblower-ted-cruz-crypto-mine-visit)
+- web3 weekly
+  - [licensing for NFTs; science of blockchains, DeFi security](https://a16zcrypto.substack.com/p/licensing-for-nfts-science-of-blockchains)
+- ChainFeeds Selection
+  - [ChainFeeds Weekly 周末荐读：币圈大咖们在讨论哪些热点？ 【08/29-09/03】](https://chainfeeds.substack.com/p/chainfeeds-weekly-0829-0903)
+- StarkNet 中文
+  - [👩🏽‍🚀 StarkNet 👨🏽‍🚀一周概览 #23](https://starknetzh.substack.com/p/starknet-23-5c3)
+- Release notes from nimbus-eth1
+  - [Simulators results ("master" branch)](https://github.com/status-im/nimbus-eth1/releases/tag/sim-stat)
+  - [Nightly build ("master" branch)](https://github.com/status-im/nimbus-eth1/releases/tag/nightly)
+- ChainFeeds精选
+  - [一个市场老手的 47 条投资札记](https://www.theblockbeats.info/news/31773)
+  - [【英文长推】真实收益是否是新的加密叙事？](https://twitter.com/CryptoDamus411/status/1566408556257185794)
+- Hacker Noon
+  - [What to do When Reviewing Academic Papers](https://hackernoon.com/what-to-do-when-reviewing-academic-papers?source=rss)
+  - [Why Self-Expression Is Missing In The Metaverse](https://hackernoon.com/why-self-expression-is-missing-in-the-metaverse?source=rss)
+  - [A World without Digital Technologies](https://hackernoon.com/a-world-without-digital-technologies?source=rss)
+  - [10 Common DeFi Scams and How to Avoid Them](https://hackernoon.com/10-common-defi-scams-and-how-to-avoid-them?source=rss)
+  - [Decoding the Three Dots (…) Or Spread Operator in Javascript](https://hackernoon.com/decoding-the-three-dots-or-spread-operator-in-javascript?source=rss)
+  - [How to Build a Music Recognition Chatbot on WhatsApp Using Node.js](https://hackernoon.com/how-to-build-a-music-recognition-chatbot-on-whatsapp-using-nodejs?source=rss)
+  - [The Noonification: Vandals of the Stars (9/4/2022)](https://hackernoon.com/9-4-2022-noonification?source=rss)
+  - [Tips for Writing Good Commit Messages](https://hackernoon.com/tips-for-writing-good-commit-messages?source=rss)
+  - [Proven Tips and Tricks to Write a Great SEO Blog Post](https://hackernoon.com/proven-tips-and-tricks-to-write-a-great-seo-blog-post?source=rss)
+  - [Creating a New Website? I Have Nuttertools for You](https://hackernoon.com/creating-a-new-website-i-have-nuttertools-for-you?source=rss)
+  - [Demystifying Misconceptions About The Elon Musk Twitter Deal](https://hackernoon.com/demystifying-misconceptions-about-the-elon-musk-twitter-deal?source=rss)
+  - [Let’s Understand Chrome V8 — Chapter 9: Builtin](https://hackernoon.com/lets-understand-chrome-v8-chapter-9-builtin?source=rss)
+  - [Top 8 Essential BigCommerce Integrations to Leverage!](https://hackernoon.com/top-8-essential-bigcommerce-integrations-to-leverage?source=rss)
+  - [How to Fail at DevOps](https://hackernoon.com/how-to-fail-at-devops?source=rss)
+  - [We Need the MetaCloud. Here's Why](https://hackernoon.com/we-need-the-metacloud-heres-why?source=rss)
+  - [Optimizing your Vue App Using v-once and v-memo](https://hackernoon.com/optimizing-your-vue-app-using-v-once-and-v-memo?source=rss)
+  - [How to Create Dynamic CSS Using Vue Reactive Variables](https://hackernoon.com/how-to-create-dynamic-css-using-vue-reactive-variables?source=rss)
+- DeFi, NFT & Web3 Insights - The Defiant
+  - [🦄 Recap: DeFi Week of Aug. 28](https://newsletter.thedefiant.io/p/recap-defi-week-of-aug-28)
+- 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)
+  - [科普 | 新興公鏈Canto生態：農民如何用穩定幣進行高年化流動性挖礦？](https://www.blocktempo.com/canton-using-stable-coin-high-apr-farming/)
+  - [抖音Q2透明度報告：重點打擊「虛擬貨幣、元宇宙及NFT」投資詐騙！](https://www.blocktempo.com/tiktok-cracks-down-on-virtual-currency-metaverse-and-nft-investment-scams/)
+  - [V神觀點》我對以太坊的影響力一直下降；PoS 安全性是 PoW 的 20 倍！](https://www.blocktempo.com/vitalik-said-my-influence-on-ethereum-has-been-declining/)
+  - [AMM進化史》從Uniswap到Solidly，更迭三世代的「自動做市商」未來是？](https://www.blocktempo.com/the-evolution-of-amms-chinese-version/)
+  - [幣印 Poolin 驚傳跑路？創辦人 : 是缺乏流動性才提幣困難、用戶礦池資產無虞](https://www.blocktempo.com/poolin-has-difficulty-of-withdrawing-coins-is-due-to-the-lack-of-liquidity/)
+  - [不妙！OpenSea八月NFT交易量不到5億美元，比巔峰時的 1 天量還低](https://www.blocktempo.com/opensea-august-volume-falls-below-500-million/)
+  - [新加坡金管局：證券法應如何適用加密貨幣，從未像現在如此緊迫！](https://www.blocktempo.com/question-of-how-securities-laws-should-apply-to-cryptocurrencies-is-urgent/)
+  - [幣市短評 | 分析師：比特幣的最糟時期已過去！短期內不太可能爆炸性成長](https://www.blocktempo.com/bitcoin-worst-time-may-be-over-and-address-in-loss-reached-ath/)
+- Trustnodes
+  - [NFT Volumes Fall to a Yearly Low](https://www.trustnodes.com/2022/09/04/nft-volumes-fall-to-a-yearly-low)
+  - [Dogecoin Leads NAFO as the Propaganda War Heats Up](https://www.trustnodes.com/2022/09/04/dogecoin-leads-nafo-as-the-propaganda-war-heats-up)
+- Ethereum Research - Latest topics
+  - [Permissioned Privacy Pools](https://ethresear.ch/t/permissioned-privacy-pools/13572)
+- Release notes from nimbus-eth2
+  - [Nightly build ("unstable" branch)](https://github.com/status-im/nimbus-eth2/releases/tag/nightly)
+- Cointelegraph.com News
+  - [A range-break from Bitcoin could trigger buying in ADA, ATOM, FIL and EOS this week](https://cointelegraph.com/news/a-range-break-from-bitcoin-could-trigger-buying-in-ada-atom-fil-and-eos-this-week)
+  - [Can the government track Bitcoin?](https://cointelegraph.com/explained/can-the-government-track-bitcoin)
+  - [PwC Venezuela Twitter account hacked, attacker shills fake XRP giveaway](https://cointelegraph.com/news/pwc-venezuela-twitter-account-hacked-attacker-shills-fake-xrp-giveaway)
+  - [Elon Musk-crypto video played on S. Korean govt's hacked YouTube channel](https://cointelegraph.com/news/elon-musk-crypto-video-played-on-s-korean-govt-s-hacked-youtube-channel)
+  - [Repurposing Bitcoin mining heat can solve global energy crisis: Arcane](https://cointelegraph.com/news/repurposing-bitcoin-mining-heat-can-solve-global-energy-crisis-arcane)

@@ -17,7 +17,7 @@
 ## 安装
 
 ```sh
-$ git clone https://github.com/firmianay/yarb.git
+$ git clone https://github.com/dubuqingfeng/yarb-web3.git
 $ cd yarb && ./install.sh
 ```
 
@@ -96,11 +96,3 @@ $ nohup ./yarb.py --cron 11:00 > run.log 2>&1 &
 </body>
 </opml>
 ```
-
-## 关注我们
-
-[VulnTotal安全团队](https://github.com/VulnTotal-Team)成立于2022年。致力于分享高质量原创文章和开源工具，包括Web安全、移动安全、物联网/汽车安全、代码审计、网络攻防等，欢迎[关注或加入我们](https://github.com/VulnTotal-Team/.github/blob/main/README.md)！
-
-GNU General Public License v3.0
-
-[![Stargazers over time](https://starchart.cc/VulnTotal-Team/yarb.svg)](https://starchart.cc/VulnTotal-Team/yarb)
